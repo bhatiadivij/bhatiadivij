@@ -4,6 +4,8 @@ I love bringing ideas to life. Currently, I'm a software developer at Amazon.
 
 Being an avid learner, I love exploring new technologies which help me to build better software with clean, efficient and scalable code. Adding to that, I am a firm believer of experiential learning and I'm always open to working with people who bring out the best in me. Apart from work, I am a hobbyist photographer.
 
+🌐 **Website**: https://divijbhatia.in
+
 📑 **Blog**: https://blog.divijbhatia.in
 
 📸 **Photography portfolio**: https://photo.divijbhatia.in
